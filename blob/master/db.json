@@ -1,0 +1,178 @@
+[
+    {
+        "userId": "1",
+        "name": "Romin Irani",
+        "email": "romin.k.irani@gmail.com",
+        "nickname": "Romi",
+        "dateofbirth": "02/09/1988",
+        "gender": "Male"
+    },
+    {
+        "userId": "2",
+        "name": "Arman Malik",
+        "email": "arman.m@gmail.com",
+        "nickname": "Arman",
+        "dateofbirth": "08/12/1989",
+        "gender": "Male"
+    },
+    {
+        "userId": "3",
+        "name": "Sweta Pandit",
+        "email": "s.pandit.@yahoo.com",
+        "nickname": "Sweto",
+        "dateofbirth": "05/12/1996",
+        "gender": "Female"
+    },
+    {
+        "userId": "4",
+        "name": "Bobby thakur",
+        "email": "bobby55.t@gmail.com",
+        "nickname": "Bobby",
+        "dateofbirth": "22/03/1981",
+        "gender": "Male"
+    },
+    {
+        "userId": "5",
+        "name": "Chetan Dev",
+        "email": "chet90@rediffmail.com",
+        "nickname": "Chetan",
+        "dateofbirth": "15/10/1990",
+        "gender": "Male"
+    },
+    {
+        "userId": "6",
+        "name": "Divik Verma",
+        "email": "divik.verma@gmail.com",
+        "nickname": "Divi",
+        "dateofbirth": "01/02/1968",
+        "gender": "Male"
+    },
+    {
+        "userId": "7",
+        "name": "Eion Dsouza",
+        "email": "dsouza.eion11@yahoo.com",
+        "nickname": "Eion",
+        "dateofbirth": "31/05/1977",
+        "gender": "Male"
+    },
+    {
+        "userId": "8",
+        "name": "Faulkner flower",
+        "email": "faulkner.f5@gmail.com",
+        "nickname": "Flower",
+        "dateofbirth": "07/12/1975",
+        "gender": "Male"
+    },
+    {
+        "userId": "9",
+        "name": "George Baily",
+        "email": "gbaily17@gmail.com",
+        "nickname": "Gorge",
+        "dateofbirth": "17/08/1994",
+        "gender": "Male"
+    },
+    {
+        "userId": "10",
+        "name": "Harry ortan",
+        "email": "harry.p@gmail.com",
+        "nickname": "Harry",
+        "dateofbirth": "16/07/1992",
+        "gender": "Male"
+    },
+    {
+        "userId": "11",
+        "name": "Illabella rahemani",
+        "email": "i.bella50@gmail.com",
+        "nickname": "bella",
+        "dateofbirth": "25/06/1998",
+        "gender": "Female"
+    },
+    {
+        "userId": "12",
+        "name": "Joff Heddy",
+        "email": "joffheddy92@gmail.com",
+        "nickname": "jeff",
+        "dateofbirth": "20/05/1987",
+        "gender": "Male"
+    },
+    {
+        "userId": "13",
+        "name": "Kaustav Roy",
+        "email": "k.roy@gmail.com",
+        "nickname": "Roy",
+        "dateofbirth": "09/08/1981",
+        "gender": "Male"
+    },
+    {
+        "userId": "14",
+        "name": "Lipsa chauhan",
+        "email": "lip221@yahoo.com",
+        "nickname": "Lipsu",
+        "dateofbirth": "07/07/2001",
+        "gender": "Female"
+    },
+    {
+        "userId": "15",
+        "name": "Mitchel Starck",
+        "email": "starck49@gmail.com",
+        "nickname": "Mitch",
+        "dateofbirth": "17/06/1984",
+        "gender": "Male"
+    },
+    {
+        "userId": "16",
+        "name": "Nandita Mishra",
+        "email": "nandita55@gmail.com",
+        "nickname": "Romi",
+        "dateofbirth": "27/09/1991",
+        "gender": "Female"
+    },
+    {
+        "userId": "17",
+        "name": "Pushkar radhewan",
+        "email": "push.r21@outlook.com",
+        "nickname": "Push",
+        "dateofbirth": "29/04/1980",
+        "gender": "Male"
+    },
+    {
+        "userId": "18",
+        "name": "Queass Rahaman",
+        "email": "rahaman786@gmail.com",
+        "nickname": "rahaman",
+        "dateofbirth": "14/01/1979",
+        "gender": "Male"
+    },
+    {
+        "userId": "19",
+        "name": "Rohan vashkar",
+        "email": "vashkar231.r@rediffmail.com",
+        "nickname": "Rohan",
+        "dateofbirth": "22/03/1999",
+        "gender": "Male"
+    },
+    {
+        "userId": "20",
+        "name": "Sk Jiauddin",
+        "email": "sjiauddin@dxc.com",
+        "nickname": "Joy",
+        "dateofbirth": "27/03/2001",
+        "gender": "Male"
+    },
+    {
+        "userId": "21",
+        "name": "Tarun Sagar",
+        "email": "tarun99@gmail.com",
+        "nickname": "Taru",
+        "dateofbirth": "11/11/196",
+        "gender": "Male"
+    },
+    {
+        "userId": "22",
+        "name": "Ujjal Panda",
+        "email": "ujjal.p@gmail.com",
+        "nickname": "Ujjal",
+        "dateofbirth": "21/12/1984",
+        "gender": "Male"
+    }
+]
